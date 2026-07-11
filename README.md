@@ -1,7 +1,7 @@
 # 👋 Welcome to Triomize
 
 <p align="center">
-  <img src="https://triomize.com/wp-content/uploads/2026/07/Triomize-Logo-website.png" alt="Triomize Logo" width="120"/>
+  <img src="https://triomize.com/wp-content/uploads/2026/07/Triomize-Logo-website.png" alt="Triomize Logo" width="300"/>
 </p>
 
 <p align="center">
